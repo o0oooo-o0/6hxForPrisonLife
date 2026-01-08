@@ -1,9 +1,6 @@
 # 🌐 6hx
 - EXPECT LAG AND SMALL BUGS!! FIRST RELEASE
-![Roblox](https://img.shields.io/badge/Roblox-Prison%20Life-red)
-![Lua](https://img.shields.io/badge/Lua-Script-blue)
-![Status](https://img.shields.io/badge/Status-Working-brightgreen)
-
+- 
 Hello, im F3kel666. I made this script for fun since most scripts of the game are bad, and wont work well on HvH or lag. This script is made for the game **Prison Life**, focused on stability and combat. More games supported soon
 
 ---
@@ -28,3 +25,7 @@ Hello, im F3kel666. I made this script for fun since most scripts of the game ar
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/o0oooo-o0/6hxForPrisonLife/refs/heads/master/6hxLoader.lua))()
+```
+![Roblox](https://img.shields.io/badge/Roblox-Prison%20Life-red)
+![Lua](https://img.shields.io/badge/Lua-Script-blue)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)

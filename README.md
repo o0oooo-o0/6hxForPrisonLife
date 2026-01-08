@@ -1,6 +1,5 @@
 # 🌐 6hx
 - EXPECT LAG AND SMALL BUGS!! FIRST RELEASE
-- 
 Hello, im F3kel666. I made this script for fun since most scripts of the game are bad, and wont work well on HvH or lag. This script is made for the game **Prison Life**, focused on stability and combat. More games supported soon
 
 ---

@@ -23,7 +23,7 @@ if getgenv().sixhx then return end
 getgenv().sixhx = true
 
 loadstring(game:HttpGet(
-    game.PlaceId == 155615604 and "https://pandadevelopment.net/virtual/file/b265cebe288cca07"
+    game.PlaceId == 155615604 and "https://pandadevelopment.net/virtual/file/b304850fc7be8711"
     or game.PlaceId == 0 and "nil"
     or "https://raw.githubusercontent.com/o0oooo-o0/6hxForPrisonLife/refs/heads/master/unsupported.lua" -- kick if unsupported
 ))()
